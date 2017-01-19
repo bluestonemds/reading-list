@@ -21,6 +21,7 @@ Psychology and Life - Richard J.Gerrig Philip G.Zimbardo （2016年）
 
 ##技术
 程序员的呐喊 作者：Steve Yegge 2016.1.5
+
 👍 图解HTTP 作者：上野 宣 （2016年）
 
 👍 modern PHP 作者：Josh Lockhart （2016年）
@@ -50,6 +51,7 @@ MacTalk 跨越边界 作者：池建强 （2016年）
 
 ##历史哲学
 乡土中国 作者：费孝通 2017.1.12
+
 大明王朝的七张面孔 作者：张宏杰 （2016年）
 
 历史学的境界 作者：高华 （2016年）
