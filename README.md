@@ -1,7 +1,7 @@
 
 *读过的书 - 👍表示推荐*
 
-#科学#
+## 科学
 
 👍 Beyond Feelings - Vincent Ruggiero （2016年）
 
@@ -13,7 +13,7 @@ Psychology and Life - Richard J.Gerrig Philip G.Zimbardo （2016年）
 
 👍 梦的解析 作者：费洛伊德 （2016年）
 
-#个人成长
+## 个人成长
 
 极简  作者：乔舒亚 . 贝克尔 2017.2.9
 
@@ -23,20 +23,15 @@ Psychology and Life - Richard J.Gerrig Philip G.Zimbardo （2016年）
 
 精进 作者：采铜 （2016年）
 
-#技术
+## 技术
 
-程序员的呐喊 作者：Steve Yegge 2017.1.5
+* 程序员的呐喊 作者：Steve Yegge 2017.1.5
+* 👍 图解HTTP 作者：上野 宣 （2016年）
+* 👍 modern PHP 作者：Josh Lockhart （2016年）
+* 黑客与画家 译者：阮一峰 （2016年）
+* Head first JavaScript 出版社：O’Reilly Media （2016年）
 
-👍 图解HTTP 作者：上野 宣 （2016年）
-
-👍 modern PHP 作者：Josh Lockhart （2016年）
-
-黑客与画家 译者：阮一峰 （2016年）
-
-Head first JavaScript 出版社：O’Reilly Media （2016年）
-
-
-#小说
+## 小说
 
 虚无的十字架 作者：东野圭吾 2017.3.1
 
