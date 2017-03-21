@@ -1,7 +1,8 @@
 
 *读过的书 - 👍表示推荐*
 
-##科学
+#科学
+
 👍 Beyond Feelings - Vincent Ruggiero （2016年）
 
 👍 超越感觉 - 批判性思考指南 - 作者：Vincent Ruggiero （2016年）
@@ -12,7 +13,8 @@ Psychology and Life - Richard J.Gerrig Philip G.Zimbardo （2016年）
 
 👍 梦的解析 作者：费洛伊德 （2016年）
 
-##个人成长
+#个人成长
+
 极简  作者：乔舒亚 . 贝克尔 2017.2.9
 
 你从未真正拼过 作者：领英 （2016年）
@@ -21,7 +23,8 @@ Psychology and Life - Richard J.Gerrig Philip G.Zimbardo （2016年）
 
 精进 作者：采铜 （2016年）
 
-##技术
+#技术
+
 程序员的呐喊 作者：Steve Yegge 2017.1.5
 
 👍 图解HTTP 作者：上野 宣 （2016年）
@@ -33,7 +36,8 @@ Psychology and Life - Richard J.Gerrig Philip G.Zimbardo （2016年）
 Head first JavaScript 出版社：O’Reilly Media （2016年）
 
 
-##小说
+#小说
+
 虚无的十字架 作者：东野圭吾 2017.3.1
 
 秘密 作者：东野圭吾 2017.2.21
@@ -49,7 +53,8 @@ Head first JavaScript 出版社：O’Reilly Media （2016年）
 👍 Street of Eternal Happiness - Rob Schmitz （2016年）
 
 
-##杂文
+#杂文
+
 👍 沉默的大多数 作者：王小波 （2016年）
 
 阮一峰博客文集 作者：阮一峰 （2016年）
@@ -57,7 +62,10 @@ Head first JavaScript 出版社：O’Reilly Media （2016年）
 MacTalk 跨越边界 作者：池建强 （2016年）
 
 
-##历史哲学
+#历史哲学
+
+禅与摩托车维修艺术 作者：罗伯特 波西格 2017.3.19
+
 江村经济 作者：费孝通 2017.1.23
 
 乡土中国 作者：费孝通 2017.1.12
