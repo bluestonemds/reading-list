@@ -16,6 +16,7 @@
 * 精进 作者：采铜 （2016年）
 
 ## 技术
+* 松本行弘的程序世界 作者：松本行弘 2017.9.3
 * 程序员的呐喊 作者：Steve Yegge 2017.1.5
 * :thumbsup: 图解HTTP 作者：上野 宣 （2016年）
 * :thumbsup: modern PHP 作者：Josh Lockhart （2016年）
