@@ -24,6 +24,7 @@
 * Head first JavaScript 出版社：O’Reilly Media （2016年）
 
 ## 小说
+* :thumbsup: 沙丘 作者：弗兰克•赫伯特 (Frank Herbert) 2017.9.16
 * :thumbsup: 无声告白 作者：伍绮诗 2017.8.12
 * :thumbsup: 夜色人生 作者： 丹尼斯·勒翰 2017.8.5
 * 白鹿原 作者：陈忠实 2017.6.30
