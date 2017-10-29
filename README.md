@@ -24,6 +24,7 @@
 * Head first JavaScript 出版社：O’Reilly Media （2016年）
 
 ## 小说
+* dear life 作者：爱丽丝•门罗  2017.10.26
 * :thumbsup: 沙丘 作者：弗兰克•赫伯特 (Frank Herbert) 2017.9.16
 * :thumbsup: 无声告白 作者：伍绮诗 2017.8.12
 * :thumbsup: 夜色人生 作者： 丹尼斯·勒翰 2017.8.5
