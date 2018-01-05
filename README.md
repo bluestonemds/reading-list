@@ -25,6 +25,8 @@
 * Head first JavaScript 出版社：O’Reilly Media （2016年）
 
 ## 小说
+* 世界的凛冬 作者：肯.福斯特 2017.12.30
+* 巨人的陨落 作者：肯.福斯特 2017.12.10
 * dear life 作者：爱丽丝•门罗  2017.10.26
 * :thumbsup: 沙丘 作者：弗兰克•赫伯特 (Frank Herbert) 2017.9.16
 * :thumbsup: 无声告白 作者：伍绮诗 2017.8.12
