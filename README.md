@@ -25,6 +25,7 @@
 * Head first JavaScript 出版社：O’Reilly Media （2016年）
 
 ## 小说
+* Harry Potter and the Philosopher's Stone 作者：J·K·罗琳 2018.1.15
 * 世界的凛冬 作者：肯.福斯特 2017.12.30
 * 巨人的陨落 作者：肯.福斯特 2017.12.10
 * dear life 作者：爱丽丝•门罗  2017.10.26
