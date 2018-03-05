@@ -2,13 +2,15 @@
 *读过的书  -  :thumbsup: 表示推荐*
 
 ## 科学
-*  :thumbsup: Beyond Feelings - Vincent Ruggiero （2016年）
-*  超越感觉 - 批判性思考指南 - 作者：Vincent Ruggiero （2016年）
-*  Manage Your Day-to-Day - The 99U Book Series （2016年）
-*  Psychology and Life - Richard J.Gerrig Philip G.Zimbardo （2016年）
-*  梦的解析 作者：费洛伊德 （2016年）
+*  :thumbsup: Beyond Feelings - Vincent Ruggiero 2016年
+*  超越感觉 - 批判性思考指南 - 作者：Vincent Ruggiero 2016年
+*  Manage Your Day-to-Day - The 99U Book Series 2016年
+*  Psychology and Life - Richard J.Gerrig Philip G.Zimbardo 2016年
+*  梦的解析 作者：费洛伊德 2016年
 
 ## 个人成长
+* 精力管理 作者：吉姆·洛尔　托尼·施瓦茨　2018.3.3
+* 时间管理（漫画版） 作者：吉姆·兰德尔 2018.2.8
 * 富爸爸穷爸爸 作者：(美)罗伯特·清崎; (美)莎伦·莱希特 2017.11.12
 * :thumbsup: The 7 habits of highly effective people 作者：Stephen R.Covey 2017.6.24
 * 极简  作者：乔舒亚 . 贝克尔 2017.2.9
@@ -25,9 +27,10 @@
 * Head first JavaScript 出版社：O’Reilly Media （2016年）
 
 ## 小说
+* Harry Potter and the secrect charmer 作者：J·K·罗琳 2018.2.15
 * Harry Potter and the Philosopher's Stone 作者：J·K·罗琳 2018.1.15
-* 世界的凛冬 作者：肯.福斯特 2017.12.30
-* 巨人的陨落 作者：肯.福斯特 2017.12.10
+* :thumbsup: 世界的凛冬 作者：肯.福斯特 2017.12.30
+* :thumbsup: 巨人的陨落 作者：肯.福斯特 2017.12.10
 * dear life 作者：爱丽丝•门罗  2017.10.26
 * :thumbsup: 沙丘 作者：弗兰克•赫伯特 (Frank Herbert) 2017.9.16
 * :thumbsup: 无声告白 作者：伍绮诗 2017.8.12
