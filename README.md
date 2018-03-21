@@ -27,6 +27,7 @@
 * Head first JavaScript 出版社：O’Reilly Media （2016年）
 
 ## 小说
+* 恶意 作者：东野圭吾 2018.3.21
 * Harry Potter and the secrect charmer 作者：J·K·罗琳 2018.2.15
 * Harry Potter and the Philosopher's Stone 作者：J·K·罗琳 2018.1.15
 * :thumbsup: 世界的凛冬 作者：肯.福斯特 2017.12.30
