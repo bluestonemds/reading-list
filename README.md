@@ -28,6 +28,7 @@
 * Head first JavaScript 出版社：O’Reilly Media （2016年）
 
 ## 小说
+* 美妙的新世界 作者：赫胥黎 2018。5.27
 * 恶意 作者：东野圭吾 2018.3.21
 * Harry Potter and the secrect charmer 作者：J·K·罗琳 2018.2.15
 * Harry Potter and the Philosopher's Stone 作者：J·K·罗琳 2018.1.15
