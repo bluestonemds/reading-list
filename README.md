@@ -29,6 +29,8 @@
 * Head first JavaScript 出版社：O’Reilly Media （2016年）
 
 ## 小说
+* 新参者 东野圭吾 2018.11.05
+* :thumbsup: Harry Potter and The Goblet of Fire  2018.10.1
 * Harry Potter and  Prisoner of Azkaban 2018.9.15
 * :thumbsup: 金瓶梅 作者：兰陵笑笑生 2018.8.31
 * 美妙的新世界 作者：赫胥黎 2018.5.27
